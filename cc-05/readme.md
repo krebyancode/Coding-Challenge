@@ -1,4 +1,4 @@
-# JS-CC-004 : Lottery Game
+# JS-CC-005 : Lottery Game
 
 A lottery is a form of gambling that involves the drawing of numbers at random for a prize. There can not be the same number in same lottery ticket. Therefore this array can not have any number more than once. Array should be sorted.
 
