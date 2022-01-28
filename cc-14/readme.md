@@ -1,7 +1,5 @@
 # JS-CC-014 : Bracket Validator
 
-Let's say:
-
 - '(', '{', '[' are called "openers."
 - ')', '}', ']' are called "closers."
 
